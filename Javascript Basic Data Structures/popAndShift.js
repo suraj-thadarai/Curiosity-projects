@@ -12,6 +12,9 @@ console.log('poppedItem is: ', poppedItem)
 let shiftItem = number.shift()
 console.log('shiftItem is: ', shiftItem)
 
+// knowing what to do and doing what you know to do are two different skill sets.
+// people expect success to take and what it actually takes is the difference between that puddle that you have to stepover and the pacific ocean.
+
 
 
 
