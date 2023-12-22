@@ -12,8 +12,8 @@
 
 function largestOfFour(arr) {
     let largestArray = []
-    let largest = 0
     for (let i = 0; i < arr.length; i++) {
+        let largest = -111111
         for (let j = 0; j < arr[i].length; j++) {
             if (largest < arr[i][j]) {
                 largest = arr[i][j]
